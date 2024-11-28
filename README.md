@@ -9,7 +9,7 @@ cd local-swarm-agent
 5.
 python3 -m venv venv 
 6.
-source venv/bin/activate # on Mac/Linux Activate virtual environment (on Windows: .\venv\Scripts\activate) 
+source venv/bin/activate # on Mac/Linux Activate virtual environment (on Windows: .\venv\Scripts\activate)
 7.
 pip install -r requirements.txt
 8.
@@ -18,6 +18,7 @@ cp .env.example .env # and set your default Ollama model
 python3 load_sql_data.py # (loads the test data, covered in previous video) 
 10.
 python3 run.py
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 Link to the code for the SQL agent swarm: https://github.com/coleam00/ai-agents-masterclass/tree/main/local-swarm-agent
