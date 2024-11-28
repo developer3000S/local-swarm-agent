@@ -3,7 +3,7 @@ Prerequisites: Python and Git (easy to Google and install in a minute)
 1. Install Ollama (link below) 
 2. Pull the models you want to use with the "ollama pull [model ID]" command (link to tool models below) 
 3. Clone the repo:
-git clone [https://github.com/coleam00/ai-agents-masterclass](https://github.com/developer3000S/local-swarm-agent.git)
+git clone https://github.com/developer3000S/local-swarm-agent.git
 4. 
 cd local-swarm-agent 
 5. 
